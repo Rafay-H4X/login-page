@@ -34,4 +34,4 @@ Before running this project, ensure you have:
 4. Open `localhost/your-project-folder/index.php` in your browser.
 
 ---
-Designed with ❤️ by [Your Name]
+Designed with ❤️ by [Rafay x Rage]
